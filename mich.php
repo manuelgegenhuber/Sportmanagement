@@ -26,13 +26,9 @@
                         </p>
                     </div>
             
-            <div id="contentPictureContainerMich uk-margin-small-left uk-margin-small-right" class="contentPictureContainer uk-flex uk-flex-center">
+            <div id="contentPictureContainerMich" class="contentPictureContainerMich uk-margin-large-left uk-margin-large-right uk-flex uk-flex-center contentPictureContainer uk-flex uk-flex-center">
                 <div class="contentPictureContainer uk-overflow-hidden">
-                    <div class="contentPictureContainerImageMich crystal-profile crystal-profile-profile">
-                    </div>
-                </div>
-                <div class="contentPictureContainer uk-overflow-hidden">
-                    <div class="contentPictureContainerImageMich crystal-profile crystal-profile-sport">
+                    <div class="contentPictureContainerImageMich uk-card crystal-profile-sport">
                     </div>
                 </div>
             </div>

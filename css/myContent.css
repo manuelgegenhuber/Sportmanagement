@@ -128,22 +128,17 @@
     position: relative;
 }
 
-.crystal-profile {
+.crystal-profile-sport {
+    background-image: url('../img/raul.jpeg');
     background-size: auto;
     background-position: center;
-    clip-path: polygon(10% 0%, 70% 0%, 90% 95%, 30% 95%);
     position: relative;
     background-size: cover;
-    background-position: top;
+    background-position: center;
     display: block;
-}
-
-.crystal-profile-profile {
-    background-image: url('../img/raul.jpg');
-}
-
-.crystal-profile-sport {
-    background-image: url('../img/raul2.png');
+    width: 400px;
+    height: 400px;
+    background-size: 150%;
 }
 
 .transform-skew-small {

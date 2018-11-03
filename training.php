@@ -25,7 +25,7 @@
         </p>
     </div>
     <div id="contentPictureContainerTraining" class="contentPictureContainer uk-overflow-hidden">
-        <img class="contentPictureContainerImageTraining crystal-shape uk-animation-kenburns uk-animation-fast" src="img/training.jpg" />
+        <img class="contentPictureContainerImageTraining" src="img/mannschaft.jpeg" />
     </div>
 </div>
 </div>

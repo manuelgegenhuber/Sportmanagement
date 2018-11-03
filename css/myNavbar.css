@@ -129,6 +129,7 @@ ul>li>p>svg {
 
 #contentPictureContainerTraining {
     margin: 0px;
+    box-shadow: 8px 8px 12px 0px rgba(0, 0, 0, 0.16), 0px 0px 0px 0px rgba(0, 0, 0, 0.12);
 }
 
 #contentPictureContainerPlan {
@@ -147,9 +148,10 @@ ul>li>p>svg {
     margin-right: 50px;
 }
 
-#contentPictureContainerMich {
+.contentPictureContainerMich {
     margin: 0px;
     margin-right: 50px;
+    box-shadow: 8px 8px 12px 0px rgba(0, 0, 0, 0.16), 0px 0px 0px 0px rgba(0, 0, 0, 0.12);
 }
 
 .contentPictureContainerImage {
@@ -157,8 +159,7 @@ ul>li>p>svg {
 }
 
 .contentPictureContainerImageTraining {
-    height: 500px;
-    clip-path: polygon(10% 30%, 100% 10%, 100% 90%, 0 100%);
+    height: 300px;
 }
 
 .contentPictureContainerImagePlan {
@@ -177,8 +178,9 @@ ul>li>p>svg {
 }
 
 .contentPictureContainerImageMich {
-    height: 300px;
-    width: 200px;
+    /*height: 300px;*/
+    /*width: 200px;*/
+    box-shadow: 8px 8px 12px 0px rgba(0, 0, 0, 0.16), 0px 0px 0px 0px rgba(0, 0, 0, 0.12);
     clip-path: 0;
 }
 
